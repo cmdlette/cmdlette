@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmdlette
+- 👋 Hi, I’m @cmdlette, also called Mouse or Monica
 - 👀 I’m interested in ... sharing my PowerShell scripts of variable usefulness.
 - 🌱 I’m currently learning ... more about security hardening.
 
